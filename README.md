@@ -1,7 +1,7 @@
 ![MasterHead](https://i.postimg.cc/Kv5Fq26c/github-header-image-1.png)
 <h1 align="center">Hi 👋, I'm Aqif Khan</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="4001" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s">
+<img align="right" alt="Coding" width="4001" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <a href="https://twitter.com/aqifqaseem" target="blank"><img src="https://img.shields.io/twitter/follow/aqifqaseem?logo=twitter&style=for-the-badge" alt="aqifqaseem" /></a> </p>
 
